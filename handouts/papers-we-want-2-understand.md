@@ -73,3 +73,8 @@
 
 - Blair, C., & Raver, C. C. (2015). School readiness and self-regulation: A developmental psychobiological approach. Annual review of psychology, 66, 711. <http://doi.org/10.1146/annurev-psych-010814-015221>.
 - Schore, A. N. (1996). The experience-dependent maturation of a regulatory system in the orbital prefrontal cortex and the origin of developmental psychopathology. Development and Psychopathology, 8(01), 59-87. <http://doi.org/10.1017/S0954579400006970>.
+
+### Levi Shiverdecker
+
+- Coan, J. A., & Allen, J. J. (2003). Frontal EEG asymmetry and the behavioral activation and inhibition systems. Psychophysiology, 40(1), 106-114. <http://dx.doi.org/10.1111/1469-8986.00011>.
+- Sutton, S. K., & Davidson, R. J. (1997). Prefrontal brain asymmetry: A biological substrate of the behavioral approach and inhibition systems. Psychological Science, 8(3), 204-210. <http://dx.doi.org/10.1111/j.1467-9280.1997.tb00413.x>.
